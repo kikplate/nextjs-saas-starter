@@ -1,0 +1,13 @@
+name: Next.js SaaS Starter
+description: Next.js App Router starter with Tailwind, Prisma, PostgreSQL, health checks, example user API, Docker, and CI defaults—ready for auth and billing layers.
+category: web
+owner: kikplate-public
+verification_token: ""
+tags:
+  - nextjs
+  - react
+  - typescript
+  - prisma
+  - postgresql
+  - tailwind
+  - docker
