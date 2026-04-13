@@ -2,7 +2,7 @@ name: Next.js SaaS Starter
 description: Next.js App Router starter with Tailwind, Prisma, PostgreSQL, health checks, example user API, Docker, and CI defaults—ready for auth and billing layers.
 category: web
 owner: kikplate-public
-verification_token: ""
+verification_token: 3b6dd165-1c3e-4e4d-824f-2f0c6e845557
 tags:
   - nextjs
   - react
